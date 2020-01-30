@@ -9,4 +9,4 @@ Easy:
 7. Valid parantheses
 8. Length of last word
 9. Plus one
-10. 
+10. Remove element
